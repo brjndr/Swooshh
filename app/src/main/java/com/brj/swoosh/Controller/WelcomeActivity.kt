@@ -1,4 +1,4 @@
-package com.brj.swoosh.controller
+package com.brj.swoosh.Controller
 
 import android.content.Intent
 import android.os.Bundle
