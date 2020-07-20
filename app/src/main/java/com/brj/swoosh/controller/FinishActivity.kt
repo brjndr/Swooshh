@@ -1,10 +1,10 @@
-package com.brj.swoosh.Controller
+package com.brj.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.brj.swoosh.Model.Player
 import com.brj.swoosh.R
-import com.brj.swoosh.Utilities.EXTRA_PLAYER
+import com.brj.swoosh.utilities.EXTRA_PLAYER
 import kotlinx.android.synthetic.main.activity_finish.*
 
 class FinishActivity : AppCompatActivity() {
